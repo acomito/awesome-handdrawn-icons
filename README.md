@@ -17,3 +17,7 @@ http://iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512.oXc
 http://iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512.oXcKtk&cid=2360
 http://iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512.oXcKtk&cid=3092
 http://iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512.oXcKtk&cid=2359
+http://iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512.oXcKtk&cid=1931
+http://iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512.oXcKtk&cid=1926
+http://iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512.oXcKtk&cid=1910
+http://iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512.oXcKtk&cid=1912
